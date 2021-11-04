@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "My first model",
+    "owner": "Sebastian",
+    "description": "My system"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Sebastian"
+  }
+}
